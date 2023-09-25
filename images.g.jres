@@ -66,6 +66,11 @@
             "background"
         ]
     },
+    "image10": {
+        "data": "hwQKAAwAAAAAAABEBAAAAAAAREREAAAAAEBERFUEAABAAERV3UUAAABARFXdTQAARERV1d1NAABARFRV1UUAAABARFRVBAAAAERAREQEAAAAAEBEBAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fire"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
