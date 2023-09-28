@@ -4,7 +4,7 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "background",
         "tags": [
-            "background"
+            "background", "sparksbg"
         ]
     },
     "image7": {
@@ -12,7 +12,7 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "background2",
         "tags": [
-            "background"
+            "background", "sparksbg"
         ]
     },
     "image8": {
@@ -20,7 +20,7 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "background3",
         "tags": [
-            "background"
+            "background", "sparksbg"
         ]
     },
     "image6": {
@@ -38,7 +38,7 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "background1",
         "tags": [
-            "background"
+            "background", "sparksbg"
         ]
     },
     "image10": {
